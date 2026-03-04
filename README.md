@@ -10,4 +10,4 @@ A console-based C program designed to store and manage student records using fil
 ### 💻 Tech Stack
 * **Language:** C (Programming Language)
 * **Concepts:** Structures, File Handling, Input Validation
-* 
+  
