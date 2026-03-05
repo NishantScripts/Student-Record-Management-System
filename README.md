@@ -19,7 +19,7 @@ This project is a console-based management system designed to handle academic re
 
 ### 🔗 Live Documentation
 For a full guide on how to compile and run this program, visit the interactive site:
-**[View on Netlify](https://nishantscripts.netlify.app)** (Replace with your actual link)
+**[View on Netlify](student-nishants-portfolio.netlify.app)** (Replace with your actual link)
 
 ---
 *Developed by [NishantScripts](https://github.com/NishantScripts)*
